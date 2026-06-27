@@ -1,0 +1,1 @@
+first run at CD pipeline did not work because docker was not properly installed on final machine
